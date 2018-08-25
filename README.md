@@ -1,1 +1,2 @@
 # microsoft-remote-desktop-client-cache-parser
+Remote Desktop Connection client cache parser processes and reconstructs client graphical cache subsequent to using Remote Desktop Connection to gain insight into actions performed on remote computers. It's built using the @PowerShell command-line shell and associated scripting language. It parses and extracts data on @Microsoft products on in-use computers and data obtained as a result of acquisition. It supports x86 and x86-64 instruction set architecture.
